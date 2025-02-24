@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work Hub.md",
+                "file": "University/Notes/AGH Entry Exam/Systemy liczbowe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Hub"
+              "title": "Systemy liczbowe"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work Hub.md",
+                "file": "University/Notes/AGH Entry Exam/Systemy liczbowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Work Hub"
+              "title": "Backlinks for Systemy liczbowe"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work Hub.md",
+                "file": "University/University Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Work Hub"
+              "title": "Outgoing links from University Hub"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work Hub.md",
+                "file": "University/University Hub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Work Hub"
+              "title": "Outline of University Hub"
             }
           }
         ]
@@ -168,11 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a602ea39b25eb92a",
+  "active": "55f2a93ac4699d26",
   "lastOpenFiles": [
+    "University/Notes/AGH Entry Exam/Topics.md",
     "University/University Hub.md",
-    "Work/Work Hub.md",
+    "University/Notes/AGH Entry Exam/Systemy liczbowe.md",
+    "University/Notes/AGH Entry Exam",
+    "University/Notes",
+    "Untitled",
     "Self Learning/Self Learning Hub.md",
+    "Work/Work Hub.md",
     "Self Learning",
     "University",
     "Work"
