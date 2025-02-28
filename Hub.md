@@ -1,1 +1,0 @@
-[[Egzamin wstępny AGH]]

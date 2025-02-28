@@ -11,14 +11,12 @@
             "id": "55f2a93ac4699d26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Hub.md",
-                "mode": "source",
-                "source": false
+                "file": "Algorithms and Data structures/Resources/Cracking the Coding Interview.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hub"
+              "icon": "lucide-file-text",
+              "title": "Cracking the Coding Interview"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hub.md",
+                "file": "Algorithms and Data structures/Resources/Cracking the Coding Interview.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hub"
+              "title": "Backlinks for Cracking the Coding Interview"
             }
           },
           {
@@ -170,20 +168,39 @@
   },
   "active": "55f2a93ac4699d26",
   "lastOpenFiles": [
-    "Egzamin wstępny AGH.md",
+    "Algorithms and Data structures/Resources/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
+    "Algorithms and Data structures/Resources/Cracking the Coding Interview.pdf",
+    "Algorithms and Data structures/Resources/Grokking-Algorithms.pdf",
+    "Algorithms and Data structures/Resources/Websites.md",
+    "Algorithms and Data structures/Resources/The Art of Computer Programming, Vol_ 1_ Fundamental -- Donald E_ Knuth_ Vol_2, Seminumerical algorithms -- 3rd ed_, Reading, Mass, Massachusetts, -- 9780133488784 -- 3612cebcee66e75a23440b97a1b560db -- Anna’s Archive.pdf",
+    "Algorithms and Data structures/Resources/Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles ( PDFDrive.com )-1.pdf",
+    "Notes Hub.md",
+    "Algorithms and Data structures/Resources/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "Algorithms and Data structures/Resources/Dynamic-Programming-for-Interviews.pdf",
+    "Algorithms and Data structures/Resources/Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles ( PDFDrive.com ).pdf",
+    "Algorithms and Data structures/Resources/Guide-to-Competitive-Programming-Learning-and-improving-Algorithms-through-Contests.pdf",
+    "Algorithms and Data structures/Resources/book.pdf",
+    "Algorithms and Data structures/Resources/Grokking-Algorithms.textClipping",
+    "1. Elementy teorii mnogości - relacje równoważności, relacje porządku. Metody dowodzenia twierdzeń..md",
     "Hub.md",
+    "9. Podstawy teorii grafów - cykl Hamiltona, obchód Eulera, liczba chromatyczna – definicje i twierdzenia, algorytm Forda-Fulkersona wyznaczania maksymalnego przepływu..md",
+    "Egzamin Wstępny UJ.md",
+    "8. Matematyka dyskretna - liczby Stirlinga I i II rodzaju i ich interpretacja - infractions i t-konfiguracje kombinatoryczne. Rozwiązywanie równań rekurencyjnych przy użyciu funkcji tworzących (generujących)..md",
+    "7.Podstawy teorii liczb - rozszerzony algorytm Euklidesa. Twierdzenia Eulera i Fermata - funkcja Eulera..md",
+    "6. Algebra liniowa - ortogonalność wektorów w przestrzeni R - związki z liniową niezależnością. Metoda ortonormalizacji Grama-Schmidta..md",
+    "Metody numeryczne - rozwiązywanie równań nieliniowych (metoda Newtona) oraz układów równań liniowych (metoda Gaussa, metoda Gaussa-Seidla)..md",
+    "Elementy teorii mnogości - relacje równoważności, relacje porządku. Metody dowodzenia twierdzeń..md",
+    "5. Rachunek prawdopodobieństwa - testy statystyczne, test z, test t-Studenta, testchi-kwadrat. Wzór Bayesa i jego interpretacja.md",
+    "4. Rachunek prawdopodobieństwa - zmienne losowe dyskretne oraz ciągłe, definicje i najważniejsze rozkłady, łańcuchy Markowa, rozkład stacjonarny..md",
+    "3. Metody numeryczne - wartości i wektory własne macierzy, interpolacja wielomianowa..md",
+    "2. Metody numeryczne - rozwiązywanie równań nieliniowych (metoda Newtona) oraz układów równań liniowych (metoda Gaussa, metoda Gaussa-Seidla)..md",
     "Systemy liczbowe.md",
+    "Egzamin wstępny AGH.md",
     "University/Notes/AGH Entry Exam/Systemy liczbowe.md",
     "University Hub.md",
     "University/Notes/AGH Entry Exam/Topics.md",
     "University/University Hub.md",
-    "University/Notes/AGH Entry Exam",
-    "University/Notes",
-    "Untitled",
     "Self Learning/Self Learning Hub.md",
-    "Work/Work Hub.md",
-    "Self Learning",
-    "University",
-    "Work"
+    "Work/Work Hub.md"
   ]
 }
